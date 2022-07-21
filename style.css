@@ -22,6 +22,12 @@
     flex: 1;
 }
 
+img.replay {
+    margin-top: 200px;
+}
+img.play {
+    margin-top: 300px;
+}
 .time-select button,
 .sound-picker button {
     color: white;
